@@ -1,5 +1,5 @@
 # Learning-to-Play-Tic-Tac-Toe-via-Reinforcement-Learning
-## Repository Description
+## Information
 This repository contains the code for the research paper, "Learning to Play Tic Tac Toe via Reinforcement Learning," which has been published as a pre-print on TechRxiv and is currently under review for publication in a peer-reviewed academic journal. The paper presents a reinforcement learning approach to teaching an artificial intelligence agent to play the game of Tic Tac Toe.
 
 ## Abstract
@@ -7,5 +7,5 @@ Machine learning algorithms are implemented in a wide variety of modern applicat
 
 Using numerically mapping algorithms of Q-Learning to predict a game’s outcome through iterative training, we have trained an artificial Tic-Tac-Toe opponent to refer to Q values for all possible player decisions in a current environment and chose the one with the highest value. With the example of Tic-Tac-Toe, we examine how reinforcement learning allows machines to implement dynamic programming techniques to maximize their performance with minimal human intervention and assistance.
 
-## Citation (APA)
-Ho, J., Huang, J., Chang, B., Liu, A., & Liu, Z. (2022). Reinforcement Learning: Playing Tic-Tac-Toe. doi: 0.36227/techrxiv.20407575.v1
+## Citation
+Ho, J., Huang, J., Chang, B., Liu, A., & Liu, Z. (2023). Reinforcement Learning: Playing Tic-Tac-Toe. Journal of Student Research. doi: 10.47611/jsr.v11i3.1739
